@@ -17,6 +17,6 @@
   "jquery": true,
   "globals": {},
   "devel": true,
-  "debug": true,
+  "debug": true
 }
 
