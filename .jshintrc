@@ -16,6 +16,7 @@
   "browser": true,
   "jquery": true,
   "globals": {},
-  "devel": true
+  "devel": true,
+  "debug": true,
 }
 
