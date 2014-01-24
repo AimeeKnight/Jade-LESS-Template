@@ -16,7 +16,6 @@
   "browser": true,
   "jquery": true,
   "globals": {},
-  /* --- DEVELOPMENT --- */
   "devel": true,
   "debug": true,
   "validthis": true
